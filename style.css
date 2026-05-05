@@ -1,5 +1,5 @@
-body { font-family: sans-serif; display: flex; justify-content: center; padding: 50px; background: #f4f4f4; }
-.container { background: white; padding: 30px; border-radius: 10px; width: 350px; text-align: center; }
-input { width: 100%; padding: 10px; margin: 10px 0; border: 1px solid #ccc; box-sizing: border-box; }
-button { width: 100%; padding: 10px; background: #003366; color: white; border: none; cursor: pointer; }
-a { color: #003366; cursor: pointer; }
+body { font-family: sans-serif; display: flex; justify-content: center; padding: 20px; background-color: #f4f7f6; }
+.card { background: white; padding: 20px; border-radius: 8px; width: 350px; box-shadow: 0 2px 10px rgba(0,0,0,0.1); }
+input, select { width: 100%; padding: 10px; margin: 10px 0; box-sizing: border-box; }
+button { width: 100%; padding: 10px; background-color: #002060; color: white; border: none; cursor: pointer; }
+.link { text-align: center; margin-top: 15px; display: block; color: blue; text-decoration: none; }
